@@ -8,8 +8,8 @@ class Current_openweather_features :
 		self.units=units
 		self.lang=lang
 		self.citydefname=citydefname
-		self.citydefzip=citydefname
-		self.citydefid=citydefid
+		self.citydefzip=citydefzip
+		self.citydefid=citydefzip
 		self.citydefcoord=citydefcoord
 		self.boxdef=boxdef
 		self.circledef=circledef
